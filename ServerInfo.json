@@ -1,0 +1,166 @@
+{
+  "settings": {
+    "Tabs": [
+      {
+        "ButtonText": "Regras Gerais",
+        "HeaderText": "Regras Gerais",
+        "Pages": [
+          {
+            "TextLines": [
+              "1. É proibido utilizar qualquer tipo de hack, programa ilegal ou bugs. (Penalidade: Ban permanente)",
+			  "2. É proibido pedir qualquer tipo de auxilio, por exemplo, teleport, itens, mudar o horário on game... aos membros da staff.",
+			  "3. Como o servidor é limitado a 50 players é proibido guardar vaga, jogadores que estiverem afk serão kickados por inatividade.",
+			  "4. Nenhum membro da staff irá usar a sua autoridade ou comandos de adm enquanto estiver logado como player, jogando normalmente. Caso isso ocorra deverá ser encaminhada uma denúncia.",
+			  "5. É proibido propagandas de outros servidores ou de qualquer outra coisa.",
+			  "6. Lembrem-se, isto é apena"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "Segunda Pagina",
+              "Em desenvolvimento"
+            ],
+            "ImageSettings": []
+          },
+          {
+            "TextLines": [
+              "Terceira Pagina",
+			"Em desenvolvimento"
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Comandos",
+        "HeaderText": "Informações de como usar os Comandos",
+        "Pages": [
+          {
+            "TextLines": [
+              "/kit starter, comando para receber um kit basico inicial, você tem 5 kit",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          },
+		  
+		  {
+            "TextLines": [
+              "This is second tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          }
+		  
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+      {
+        "ButtonText": "Quarto Tab",
+        "HeaderText": "Third Tab",
+        "Pages": [
+          {
+            "TextLines": [
+              "This is third tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      },
+	  
+	  {
+        "ButtonText": "Third Tab",
+        "HeaderText": "Third Tab",
+        "Pages": [
+          {
+            "TextLines": [
+              "This is third tab, first page.",
+              "Add some text here by adding more lines.",
+              "You should replace all default text lines with whatever you feel up to",
+              "type <color=red> /info </color> to open this window",
+              "You may add more pages in config file."
+            ],
+            "ImageSettings": []
+          }
+        ],
+        "TabButtonAnchor": 4,
+        "TabButtonFontSize": 16,
+        "HeaderAnchor": 0,
+        "HeaderFontSize": 32,
+        "TextFontSize": 16,
+        "TextAnchor": 3,
+        "OxideGroup": ""
+      }
+	  
+	  
+    ],
+    "ShowInfoOnPlayerInit": true,
+    "TabToOpenByDefault": 0,
+    "Position": {
+      "MinX": 0.15,
+      "MaxX": 0.9,
+      "MinY": 0.2,
+      "MaxY": 0.9
+    },
+    "BackgroundImage": {
+      "Enabled": true,
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 1.0,
+        "MinY": 0.0,
+        "MaxY": 1.0
+      },
+      "Url": "http://7-themes.com/data_images/out/13/6813131-textured-backgrounds.jpg",
+      "TransparencyInPercent": 20
+    },
+    "ActiveButtonColor": "#00FFFFFF",
+    "InactiveButtonColor": "#7F7F7FFF",
+    "CloseButtonColor": "#7F7F7FFF",
+    "NextPageButtonColor": "#7F7F7FFF",
+    "PrevPageButtonColor": "#7F7F7FFF",
+    "BackgroundColor": "#000000FF",
+    "HelpButton": {
+      "IsEnabled": false,
+      "Text": "Help",
+      "Position": {
+        "MinX": 0.0,
+        "MaxX": 0.05,
+        "MinY": 0.1,
+        "MaxY": 0.14
+      },
+      "Color": "#7F7F7FFF",
+      "FontSize": 18
+    },
+    "UpgradedConfig": true
+  }
+}
