@@ -7,34 +7,28 @@
         "Pages": [
           {
             "TextLines": [
-              "1. É proibido utilizar qualquer tipo de hack, programa ilegal ou bugs. (Penalidade: Ban permanente)",
-			  "2. É proibido pedir qualquer tipo de auxilio, por exemplo, teleport, itens, mudar o horário on game... aos membros da staff.",
-			  "3. Como o servidor é limitado a 50 players é proibido guardar vaga, jogadores que estiverem afk serão kickados por inatividade.",
-			  "4. Nenhum membro da staff irá usar a sua autoridade ou comandos de adm enquanto estiver logado como player, jogando normalmente. Caso isso ocorra deverá ser encaminhada uma denúncia.",
+			  " ",
+              "1. É proibido utilizar qualquer tipo de hack, programa ilegal ou bugs.",
+			  "(Penalidade: Ban permanente)",
+			  "2. É proibido pedir qualquer tipo de auxilio aos membros da staff.", 
+			  "Ex.: teleport, itens, mudar horário on game",
+			  "3. Como o servidor é limitado a 50 players, é proibido guardar vaga,", 
+			  "jogadores que estiverem afk serão kickados por inatividade.",
+			  "4. Nenhum membro da staff irá usar a sua autoridade ou comandos de adm enquanto", 
+			  "estiver logado como player, jogando normalmente.", 
+			  "Caso isso ocorra, envie denuncia aos outros membros da STAFF.",
 			  "5. É proibido propagandas de outros servidores ou de qualquer outra coisa.",
-			  "6. Lembrem-se, isto é apena"
-            ],
-            "ImageSettings": []
-          },
-          {
-            "TextLines": [
-              "Segunda Pagina",
-              "Em desenvolvimento"
-            ],
-            "ImageSettings": []
-          },
-          {
-            "TextLines": [
-              "Terceira Pagina",
-			"Em desenvolvimento"
+			  "6. Seja educado. SEMPRE!",
+			  "7. Lembrem-se, isto é apenas um jogo. DIVIRTAM-SE"
             ],
             "ImageSettings": []
           }
+         
         ],
         "TabButtonAnchor": 4,
         "TabButtonFontSize": 16,
         "HeaderAnchor": 0,
-        "HeaderFontSize": 32,
+        "HeaderFontSize": 20,
         "TextFontSize": 16,
         "TextAnchor": 3,
         "OxideGroup": ""
@@ -45,38 +39,69 @@
         "Pages": [
           {
             "TextLines": [
-              "/kit starter, comando para receber um kit basico inicial, você tem 5 kit",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "You may add more pages in config file."
+			  " ",
+              "/kit starter, comando para receber um kit basico inicial",
+              "Você tem 5 kits, use com sabedoria, não haverá outros.",
+			  " ",
+              "/bsl <numero>, comando para acessar a loja.",
+              "Mude o número para navegar nas páginas da loja.",
+			  " ",
+              "/buy 'nome do item' <quantidade>, comando para comprar itens da loja.",
+              "Ex.: /buy 'caixa grande' 5",
+			  " ",
+              "Caso queira a BluePrint do item, utilize:",
+              "/buy 'nome do item_bp' <quantidade>",
+              "Ex.: /buy 'caixa grande_bp' 1", 
+			  " ",
+              "/balance, comando para ver seu saldo no jogo",
+			  " ",
+			  "/transfer 'nome do player' <quantidade>, comando para realizar transferência de dinheiro.",
+			  " ",
+			  "/tpr 'nome do player', comando para pedir teleporte para outro player",
+			  "/tpa, comando para aceitar o teleporte feito por outro player",
+			  " "
+			  
+			  
             ],
             "ImageSettings": []
           },
-		  
 		  {
             "TextLines": [
-              "This is second tab, first page.",
-              "Add some text here by adding more lines.",
-              "You should replace all default text lines with whatever you feel up to",
-              "type <color=red> /info </color> to open this window",
-              "You may add more pages in config file."
+			" ",
+              "/sethome 'nome ou numero da home', comando para salvar local como sua casa",
+			  "/home 'nome ou numero da home', comando para se teleportar para sua casa",
+			  " ",
+			  "/listhomes, comando mostra quais homes você já tem salvas",
+			  "/removehome 'nome da home', comando para deletar uma casa salva",
+			  " ",
+			  "/pm 'nome do player', comando para falar privado com outro player",
+			  "/r, responde mensagem privada para o ultimo PM realizado ou recebido",
+			  " ",
+			  "/ping, comando para visualizar seu PING no servidor.",
+			  " ",
+			  "/voteday, comando para aceitar a votação para pular a noite.",
+			  " ",
+			  "/remove, comando para retirar construções ou objetos onde você tenha permissão para construir.",
+			  "Para utilizar esse comando é necessário não ter nenhum item na mão e ter material para pagar a retirada.",
+			  " "
+			  
             ],
             "ImageSettings": []
           }
+		  
 		  
         ],
         "TabButtonAnchor": 4,
         "TabButtonFontSize": 16,
         "HeaderAnchor": 0,
-        "HeaderFontSize": 32,
+        "HeaderFontSize": 20,
         "TextFontSize": 16,
         "TextAnchor": 3,
         "OxideGroup": ""
       },
       {
-        "ButtonText": "Quarto Tab",
-        "HeaderText": "Third Tab",
+        "ButtonText": "Loja",
+        "HeaderText": "Itens da Loja",
         "Pages": [
           {
             "TextLines": [
@@ -92,7 +117,7 @@
         "TabButtonAnchor": 4,
         "TabButtonFontSize": 16,
         "HeaderAnchor": 0,
-        "HeaderFontSize": 32,
+        "HeaderFontSize": 20,
         "TextFontSize": 16,
         "TextAnchor": 3,
         "OxideGroup": ""
@@ -140,10 +165,10 @@
         "MinY": 0.0,
         "MaxY": 1.0
       },
-      "Url": "http://7-themes.com/data_images/out/13/6813131-textured-backgrounds.jpg",
+      "Url": "http://www.proforma.net.br/wp-content/uploads/2015/11/textured-backgrounds.jpg",
       "TransparencyInPercent": 20
     },
-    "ActiveButtonColor": "#00FFFFFF",
+    "ActiveButtonColor": "#000000",
     "InactiveButtonColor": "#7F7F7FFF",
     "CloseButtonColor": "#7F7F7FFF",
     "NextPageButtonColor": "#7F7F7FFF",
